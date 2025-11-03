@@ -19,7 +19,7 @@ This project is a simple tool to encrypt and decrypt text using the Caesar Ciphe
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/SaiKrishna033/caesar-cipher.git
+    git clone https://github.com/SaiKrishnaKona/caesar-cipher.git
     cd caesar-cipher
     ```
 
